@@ -8,7 +8,8 @@ body{
 	background-size: 400% 400%;
 	animation: gradient 5s ease infinite;
 	height: 100vh;
-    font-family: 'Poppins' sans-serif;
+font-family: 'Paytone One', sans-serif;
+font-family: 'Poppins', sans-serif;
     display: flex;
     align-items: center;
     justify-content: center;
